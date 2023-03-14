@@ -4,7 +4,7 @@ const { createApp } = Vue
     data() {
       return {
         message: "Ciao Mondo!!!",
-        immagine : "https://tse3.mm.bing.net/th?id=OIP.KYsS-IQ5v_OZAOEzgJB74AHaFG&pid=Api&P=0"
+        immagine : "https://tse3.explicit.bing.net/th?id=OIP.zyNSb0UXhP8TfxYbj-GNWgAAAA&pid=Api&P=0"
       }
     }
   }).mount('#app')
